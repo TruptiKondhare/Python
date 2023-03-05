@@ -1,0 +1,1572 @@
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>id</th>
+      <th>description</th>
+      <th>url</th>
+      <th>types</th>
+      <th>topics</th>
+      <th>levels</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>1</td>
+      <td>South Florida's Best Meetups on Youtube</td>
+      <td>https://www.youtube.com/bocajs</td>
+      <td>[tutorial]</td>
+      <td>[js, html]</td>
+      <td>[beginner, intermediate, advanced]</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>2</td>
+      <td>BocaJS - South Florida's Largest Developer Meetup</td>
+      <td>https://Meetup.com/bocajs</td>
+      <td>[meeting]</td>
+      <td>[js, html]</td>
+      <td>[beginner, intermediate, advanced]</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>3</td>
+      <td>Palm Beach Javascript</td>
+      <td>https://www.youtube.com/palm-beach-js</td>
+      <td>[meeting]</td>
+      <td>[js, html]</td>
+      <td>[beginner, intermediate, advanced]</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>4</td>
+      <td>35 Useful CSS3 Tutorials To Boost Your Skills</td>
+      <td>http://www.tripwiremagazine.com/2012/06/css3-tutorials.html</td>
+      <td>[tutorial]</td>
+      <td>[html, css]</td>
+      <td>[beginner, intermediate, advanced]</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>5</td>
+      <td>5 more ways to start learning how to code right now for free</td>
+      <td>http://thenextweb.com/dd/2012/02/02/5-more-ways-to-start-learning-how-to-code-right-now-for-free</td>
+      <td>[reference, blog post]</td>
+      <td>[learn to code, computer science, general programming]</td>
+      <td>[beginner]</td>
+    </tr>
+    <tr>
+      <th>5</th>
+      <td>6</td>
+      <td>5 Ways To Learn Code From The Comfort Of Your Own Browser</td>
+      <td>http://techcrunch.com/2012/08/21/5-ways-to-learn-code-from-the-comfort-of-your-own-browser</td>
+      <td>[reference, blog post]</td>
+      <td>[learn to code]</td>
+      <td>[beginner]</td>
+    </tr>
+    <tr>
+      <th>6</th>
+      <td>7</td>
+      <td>Academy RPA UiPath</td>
+      <td>https://academy.uipath.com/learn/course/external/view/elearning/638/RPAStarterTraining?utm_source=girls-who-code&amp;utm_medium=link&amp;utm_campaign=ET19ACD&amp;utm_term=womenwhocode</td>
+      <td>[interactive course]</td>
+      <td>[general programming, computer science, learn to code]</td>
+      <td>[beginner]</td>
+    </tr>
+    <tr>
+      <th>7</th>
+      <td>8</td>
+      <td>Also, Why I'm learning to code</td>
+      <td>http://also.roybahat.com/post/11574823708/why-im-learning-to-code</td>
+      <td>[reference, blog post]</td>
+      <td>[learn to code]</td>
+      <td>[beginner, intermediate, advanced]</td>
+    </tr>
+    <tr>
+      <th>8</th>
+      <td>9</td>
+      <td>Alternate Java Programming Style Guide from JavaRanch</td>
+      <td>http://www.javaranch.com/style.jsp</td>
+      <td>[style guide]</td>
+      <td>[java]</td>
+      <td>[beginner, intermediate, advanced]</td>
+    </tr>
+    <tr>
+      <th>9</th>
+      <td>10</td>
+      <td>Apple Human Interface Guidelines</td>
+      <td>https://developer.apple.com/design/resources</td>
+      <td>[article, book]</td>
+      <td>[iOS App Development]</td>
+      <td>[intermediate]</td>
+    </tr>
+    <tr>
+      <th>10</th>
+      <td>11</td>
+      <td>Atlassian Git Tutorials</td>
+      <td>https://www.atlassian.com/git</td>
+      <td>[tutorial]</td>
+      <td>[git]</td>
+      <td>[beginner, intermediate]</td>
+    </tr>
+    <tr>
+      <th>11</th>
+      <td>12</td>
+      <td>Automate the Boring Stuff with Python</td>
+      <td>https://automatetheboringstuff.com</td>
+      <td>[tutorial]</td>
+      <td>[python]</td>
+      <td>[beginner]</td>
+    </tr>
+    <tr>
+      <th>12</th>
+      <td>13</td>
+      <td>AWS Events &amp; Webinars</td>
+      <td>https://aws.amazon.com/about-aws/events</td>
+      <td>[reference]</td>
+      <td>[aws, cloud]</td>
+      <td>[beginner]</td>
+    </tr>
+    <tr>
+      <th>13</th>
+      <td>14</td>
+      <td>AWS Loft Talk An Engineer's Tour of the Internet of Things (Sep 2015 video)</td>
+      <td>https://www.youtube.com/watch?v=yElH0mGzEkE</td>
+      <td>[video]</td>
+      <td>[iot]</td>
+      <td>[beginner, intermediate, advanced]</td>
+    </tr>
+    <tr>
+      <th>14</th>
+      <td>15</td>
+      <td>Babel's ECMAScript 6 tutorial</td>
+      <td>http://babeljs.io/docs/learn-es2015</td>
+      <td>[tutorial]</td>
+      <td>[javascript]</td>
+      <td>[beginner, intermediate]</td>
+    </tr>
+    <tr>
+      <th>15</th>
+      <td>16</td>
+      <td>Bug Bounties 101 - Getting Started</td>
+      <td>https://fin1te.net/articles/bug-bounties-101-getting-started</td>
+      <td>[guide, reference]</td>
+      <td>[security, bug]</td>
+      <td>[beginner, intermediate]</td>
+    </tr>
+    <tr>
+      <th>16</th>
+      <td>17</td>
+      <td>Bugcrowd blog - for bug bounty community</td>
+      <td>https://blog.bugcrowd.com</td>
+      <td>[blog]</td>
+      <td>[security, bug]</td>
+      <td>[beginner, intermediate]</td>
+    </tr>
+    <tr>
+      <th>17</th>
+      <td>18</td>
+      <td>Build Cross Browser Extensions in Minutes - Crossrider.com</td>
+      <td>https://crossrider.com</td>
+      <td>[product]</td>
+      <td>[html, css]</td>
+      <td>[intermediate, advanced]</td>
+    </tr>
+    <tr>
+      <th>18</th>
+      <td>19</td>
+      <td>BuildingWebApps.com</td>
+      <td>http://www.buildingwebapps.com</td>
+      <td>[tutorial, reference]</td>
+      <td>[html, css, ruby]</td>
+      <td>[beginner, intermediate]</td>
+    </tr>
+    <tr>
+      <th>19</th>
+      <td>20</td>
+      <td>BuildItSecure.ly</td>
+      <td>https://builditsecure.ly/#resources</td>
+      <td>[guide, reference]</td>
+      <td>[iot]</td>
+      <td>[beginner, intermediate, advanced]</td>
+    </tr>
+    <tr>
+      <th>20</th>
+      <td>21</td>
+      <td>BuildItSecure.ly - talk introducing initiative - initiative mentioned at 37:36</td>
+      <td>https://www.youtube.com/watch?v=WHdU4LutBGU&amp;feature=youtu.be</td>
+      <td>[video]</td>
+      <td>[iot]</td>
+      <td>[beginner, intermediate, advanced]</td>
+    </tr>
+    <tr>
+      <th>21</th>
+      <td>22</td>
+      <td>BYTE: A Special issue on Smalltalk</td>
+      <td>https://archive.org/details/byte-magazine-1981-08</td>
+      <td>[reference]</td>
+      <td>[smalltalk]</td>
+      <td>[beginner, intermediate]</td>
+    </tr>
+    <tr>
+      <th>22</th>
+      <td>23</td>
+      <td>C/C++ Reference</td>
+      <td>http://en.cppreference.com/w</td>
+      <td>[reference]</td>
+      <td>[c++]</td>
+      <td>[beginner, intermediate, advanced]</td>
+    </tr>
+    <tr>
+      <th>23</th>
+      <td>24</td>
+      <td>Code academy</td>
+      <td>http://www.codecademy.com/en/tracks/javascript</td>
+      <td>[tutorial]</td>
+      <td>[javascript]</td>
+      <td>[beginner, intermediate]</td>
+    </tr>
+    <tr>
+      <th>24</th>
+      <td>25</td>
+      <td>Codecademy</td>
+      <td>https://www.codecademy.com</td>
+      <td>[lab, interactive course, tutorial]</td>
+      <td>[rails, sql, angularjs, python, php, java, html, css, javascript, git, ruby]</td>
+      <td>[beginner]</td>
+    </tr>
+    <tr>
+      <th>25</th>
+      <td>26</td>
+      <td>Codecademy.com</td>
+      <td>https://www.codecademy.com/#!/exercise/0</td>
+      <td>[school, training]</td>
+      <td>[schools]</td>
+      <td>[beginner, intermediate, advanced]</td>
+    </tr>
+    <tr>
+      <th>26</th>
+      <td>27</td>
+      <td>Codecademy is now teaching Python!</td>
+      <td>https://www.codecademy.com/learn/python</td>
+      <td>[tutorial]</td>
+      <td>[python]</td>
+      <td>[beginner, intermediate]</td>
+    </tr>
+    <tr>
+      <th>27</th>
+      <td>28</td>
+      <td>Codecademy - Ruby</td>
+      <td>https://www.codecademy.com/learn/ruby</td>
+      <td>[tutorial]</td>
+      <td>[ruby]</td>
+      <td>[beginner, intermediate]</td>
+    </tr>
+    <tr>
+      <th>28</th>
+      <td>29</td>
+      <td>Codecademy - Ruby Track</td>
+      <td>https://www.codecademy.com/tracks/ruby</td>
+      <td>[interactive course, tutorial]</td>
+      <td>[ruby, learn to code]</td>
+      <td>[intermediate, beginner]</td>
+    </tr>
+    <tr>
+      <th>29</th>
+      <td>30</td>
+      <td>Codecademy's Learn SQL</td>
+      <td>https://www.codecademy.com/learn/learn-sql</td>
+      <td>[tutorial]</td>
+      <td>[sql]</td>
+      <td>[beginner, intermediate]</td>
+    </tr>
+    <tr>
+      <th>30</th>
+      <td>31</td>
+      <td>CodeEval - Evaluations Made Easy</td>
+      <td>https://www.codeeval.com</td>
+      <td>[help forum]</td>
+      <td>[misc]</td>
+      <td>[beginner, intermediate, advanced]</td>
+    </tr>
+    <tr>
+      <th>31</th>
+      <td>32</td>
+      <td>CodeMentor.io Go Tutorial</td>
+      <td>https://www.codementor.io/go</td>
+      <td>[video, tutorial]</td>
+      <td>[Go]</td>
+      <td>[beginner, intermediate, advanced]</td>
+    </tr>
+    <tr>
+      <th>32</th>
+      <td>33</td>
+      <td>CodePath iOS Guides</td>
+      <td>http://guides.codepath.com/ios</td>
+      <td>[tutorial]</td>
+      <td>[iOS]</td>
+      <td>[beginner, intermediate]</td>
+    </tr>
+    <tr>
+      <th>33</th>
+      <td>34</td>
+      <td>CodePath iOS Guides for Designers</td>
+      <td>http://guides.codepath.com/ios/Designer-Guides</td>
+      <td>[tutorial]</td>
+      <td>[iOS]</td>
+      <td>[beginner, intermediate]</td>
+    </tr>
+    <tr>
+      <th>34</th>
+      <td>35</td>
+      <td>CodePath YouTube playlists</td>
+      <td>https://www.youtube.com/channel/UCvrvJyrx7ebh02wuOId11HA/playlists</td>
+      <td>[video]</td>
+      <td>[iOS]</td>
+      <td>[beginner, intermediate]</td>
+    </tr>
+    <tr>
+      <th>35</th>
+      <td>36</td>
+      <td>CodePen - scope out cool ideas for html/css/js projects</td>
+      <td>http://codepen.io</td>
+      <td>[code projects]</td>
+      <td>[javascript]</td>
+      <td>[beginner, intermediate]</td>
+    </tr>
+    <tr>
+      <th>36</th>
+      <td>37</td>
+      <td>Coder Projects</td>
+      <td>http://googlecreativelab.github.io/coder-projects</td>
+      <td>[code projects]</td>
+      <td>[general programming]</td>
+      <td>[beginner, intermediate]</td>
+    </tr>
+    <tr>
+      <th>37</th>
+      <td>38</td>
+      <td>Code School</td>
+      <td>https://www.codeschool.com</td>
+      <td>[podcast, video, tutorial]</td>
+      <td>[objective-c, rails, sql, iOS, html, css, javascript, git, ruby]</td>
+      <td>[advanced, intermediate, beginner]</td>
+    </tr>
+    <tr>
+      <th>38</th>
+      <td>39</td>
+      <td>Code School - Discover Chrome DevTools</td>
+      <td>http://discover-devtools.codeschool.com</td>
+      <td>[tools]</td>
+      <td>[misc]</td>
+      <td>[beginner, intermediate, advanced]</td>
+    </tr>
+    <tr>
+      <th>39</th>
+      <td>40</td>
+      <td>Code School: Rails for Zombies</td>
+      <td>http://railsforzombies.org</td>
+      <td>[tutorial, video]</td>
+      <td>[ruby]</td>
+      <td>[beginner, intermediate]</td>
+    </tr>
+    <tr>
+      <th>40</th>
+      <td>41</td>
+      <td>Code School's Try Objective-C</td>
+      <td>https://www.codeschool.com/courses/try-objective-c</td>
+      <td>[tutorial]</td>
+      <td>[iOS]</td>
+      <td>[beginner, intermediate]</td>
+    </tr>
+    <tr>
+      <th>41</th>
+      <td>42</td>
+      <td>Code School - Try Git (in-browser)</td>
+      <td>https://try.github.io/levels/1/challenges/1</td>
+      <td>[interactive, practice]</td>
+      <td>[git]</td>
+      <td>[beginner, intermediate]</td>
+    </tr>
+    <tr>
+      <th>42</th>
+      <td>43</td>
+      <td>Code School - Try R</td>
+      <td>https://www.codeschool.com/courses/try-r</td>
+      <td>[tutorial]</td>
+      <td>[data]</td>
+      <td>[beginner, intermediate]</td>
+    </tr>
+    <tr>
+      <th>43</th>
+      <td>44</td>
+      <td>CodingBat Java practice problems</td>
+      <td>http://codingbat.com/java</td>
+      <td>[quiz, tutorial, practice problems]</td>
+      <td>[java]</td>
+      <td>[beginner, intermediate]</td>
+    </tr>
+    <tr>
+      <th>44</th>
+      <td>45</td>
+      <td>CodingBat Python practice problems</td>
+      <td>http://codingbat.com/python</td>
+      <td>[practice problems]</td>
+      <td>[python]</td>
+      <td>[beginner, intermediate]</td>
+    </tr>
+    <tr>
+      <th>45</th>
+      <td>46</td>
+      <td>Collaborating to Win -- presentation on Collaborative CTF Infrastructure (video)</td>
+      <td>https://www.youtube.com/watch?v=6X3xSsoqoFw</td>
+      <td>[video]</td>
+      <td>[security, ctf]</td>
+      <td>[beginner, intermediate]</td>
+    </tr>
+    <tr>
+      <th>46</th>
+      <td>47</td>
+      <td>Collaborating to Win -- write up of talk with links</td>
+      <td>http://lockboxx.blogspot.com/2015/11/cooperative-infrastructure-for-security.html</td>
+      <td>[reference]</td>
+      <td>[security, ctf]</td>
+      <td>[beginner, intermediate]</td>
+    </tr>
+    <tr>
+      <th>47</th>
+      <td>48</td>
+      <td>Computer Programming using GNU Smalltalk</td>
+      <td>http://www.canol.info/books/computer_programming_using_gnu_smalltalk</td>
+      <td>[book]</td>
+      <td>[smalltalk]</td>
+      <td>[beginner, intermediate]</td>
+    </tr>
+    <tr>
+      <th>48</th>
+      <td>49</td>
+      <td>Computer Science: Free Courses</td>
+      <td>http://www.openculture.com/computer_science_free_courses</td>
+      <td>[reference]</td>
+      <td>[learn to code, computer science, general programming]</td>
+      <td>[beginner, intermediate, advanced]</td>
+    </tr>
+    <tr>
+      <th>49</th>
+      <td>50</td>
+      <td>Coursera Python</td>
+      <td>https://www.coursera.org/course/interactivepython1</td>
+      <td>[tutorial]</td>
+      <td>[python]</td>
+      <td>[beginner, intermediate]</td>
+    </tr>
+    <tr>
+      <th>50</th>
+      <td>51</td>
+      <td>Coursera - The Data Scientist’s Toolbox (John Hopkin's University)</td>
+      <td>https://www.coursera.org/learn/data-scientists-tools</td>
+      <td>[tutorial]</td>
+      <td>[data]</td>
+      <td>[beginner, intermediate]</td>
+    </tr>
+    <tr>
+      <th>51</th>
+      <td>52</td>
+      <td>Cracking the Coding Interview</td>
+      <td>http://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X</td>
+      <td>[book]</td>
+      <td>[general programming, inteview]</td>
+      <td>[beginner, intermediate]</td>
+    </tr>
+    <tr>
+      <th>52</th>
+      <td>53</td>
+      <td>CSS Diner: Select the Plates</td>
+      <td>http://flukeout.github.io</td>
+      <td>[game, interactive course]</td>
+      <td>[css]</td>
+      <td>[intermediate]</td>
+    </tr>
+    <tr>
+      <th>53</th>
+      <td>54</td>
+      <td>CSS Grids and Flexbox for Responsive Web Design</td>
+      <td>https://frontendmasters.com/courses/css-grids-flexbox</td>
+      <td>[video, tutorial]</td>
+      <td>[css]</td>
+      <td>[beginner]</td>
+    </tr>
+    <tr>
+      <th>54</th>
+      <td>55</td>
+      <td>CSS Selectors</td>
+      <td>http://benhowdle.im/cssselectors</td>
+      <td>[reference]</td>
+      <td>[css]</td>
+      <td>[intermediate]</td>
+    </tr>
+    <tr>
+      <th>55</th>
+      <td>56</td>
+      <td>CTF Field Guide</td>
+      <td>http://trailofbits.github.io/ctf/index.html</td>
+      <td>[guide, reference]</td>
+      <td>[security, ctf]</td>
+      <td>[beginner, intermediate]</td>
+    </tr>
+    <tr>
+      <th>56</th>
+      <td>57</td>
+      <td>ctftime.org</td>
+      <td>https://ctftime.org</td>
+      <td>[challenges]</td>
+      <td>[security, ctf]</td>
+      <td>[beginner, intermediate]</td>
+    </tr>
+    <tr>
+      <th>57</th>
+      <td>58</td>
+      <td>Dash: General Assembly</td>
+      <td>https://dash.generalassemb.ly</td>
+      <td>[lab, interactive course, tutorial]</td>
+      <td>[html, css, javascript]</td>
+      <td>[beginner]</td>
+    </tr>
+    <tr>
+      <th>58</th>
+      <td>59</td>
+      <td>Deep JavaScript Foundations</td>
+      <td>https://frontendmasters.com/courses/deep-javascript-v3</td>
+      <td>[video, tutorial]</td>
+      <td>[javascript]</td>
+      <td>[intermediate]</td>
+    </tr>
+    <tr>
+      <th>59</th>
+      <td>60</td>
+      <td>DesignCode</td>
+      <td>https://designcode.io</td>
+      <td>[video reference tutorial]</td>
+      <td>[Xcode vue AdobeXD Sketch mobile app development React swift iOS]</td>
+      <td>[intermediate]</td>
+    </tr>
+    <tr>
+      <th>60</th>
+      <td>61</td>
+      <td>Developing Apps for iOS (SD)</td>
+      <td>https://itunes.apple.com/itunes-u/developing-apps-for-ios-sd/id395631522</td>
+      <td>[podcast, video, tutorial]</td>
+      <td>[iOS]</td>
+      <td>[beginner, intermediate]</td>
+    </tr>
+    <tr>
+      <th>61</th>
+      <td>62</td>
+      <td>Developing iOS 7 Apps with Objective-C</td>
+      <td>https://itunes.apple.com/us/course/developing-ios-7-apps-for/id733644550</td>
+      <td>[podcast, tutorial]</td>
+      <td>[iOS]</td>
+      <td>[intermediate, advanced]</td>
+    </tr>
+    <tr>
+      <th>62</th>
+      <td>63</td>
+      <td>Developing iOS 8 Apps with Swift</td>
+      <td>https://itunes.apple.com/us/course/developing-ios-8-apps-swift/id961180099</td>
+      <td>[podcast, tutorial]</td>
+      <td>[iOS, swift]</td>
+      <td>[intermediate, advanced]</td>
+    </tr>
+    <tr>
+      <th>63</th>
+      <td>64</td>
+      <td>Eclipse.org - IoT - includes Connected Greenhouse tutorial (uses Java language)</td>
+      <td>http://iot.eclipse.org/getting-started</td>
+      <td>[tutorial]</td>
+      <td>[iot]</td>
+      <td>[beginner, intermediate, advanced]</td>
+    </tr>
+    <tr>
+      <th>64</th>
+      <td>65</td>
+      <td>edX - Big Data in Education (Teachers College | Columbia University)</td>
+      <td>https://www.edx.org/course/big-data-education-teacherscollegex-bde1x</td>
+      <td>[tutorial]</td>
+      <td>[data]</td>
+      <td>[beginner, intermediate]</td>
+    </tr>
+    <tr>
+      <th>65</th>
+      <td>66</td>
+      <td>edX - Explore statistics with R</td>
+      <td>https://www.edx.org/course/explore-statistics-r-kix-kiexplorx-0</td>
+      <td>[tutorial]</td>
+      <td>[data]</td>
+      <td>[beginner, intermediate]</td>
+    </tr>
+    <tr>
+      <th>66</th>
+      <td>67</td>
+      <td>Effective Go</td>
+      <td>https://golang.org/doc/effective_go.html</td>
+      <td>[tutorial, book]</td>
+      <td>[Go]</td>
+      <td>[beginner, intermediate, advanced]</td>
+    </tr>
+    <tr>
+      <th>67</th>
+      <td>68</td>
+      <td>Eloquent JavaScript</td>
+      <td>http://eloquentjavascript.net</td>
+      <td>[book]</td>
+      <td>[javascript]</td>
+      <td>[intermediate, beginner]</td>
+    </tr>
+    <tr>
+      <th>68</th>
+      <td>69</td>
+      <td>Embedded Device Hacking Blog</td>
+      <td>http://www.devttys0.com/blog</td>
+      <td>[blog]</td>
+      <td>[security, bug]</td>
+      <td>[beginner, intermediate]</td>
+    </tr>
+    <tr>
+      <th>69</th>
+      <td>70</td>
+      <td>Enjoy CSS.com</td>
+      <td>http://enjoycss.com</td>
+      <td>[lab, interactive course]</td>
+      <td>[css]</td>
+      <td>[intermediate]</td>
+    </tr>
+    <tr>
+      <th>70</th>
+      <td>71</td>
+      <td>Exercism</td>
+      <td>http://www.exercism.io</td>
+      <td>[quiz, tutorial, practice problems]</td>
+      <td>[general programming]</td>
+      <td>[beginner, intermediate]</td>
+    </tr>
+    <tr>
+      <th>71</th>
+      <td>72</td>
+      <td>Flatiron iOS pre-work</td>
+      <td>https://learn.co/signup</td>
+      <td>[tutorial]</td>
+      <td>[iOS]</td>
+      <td>[beginner, intermediate]</td>
+    </tr>
+    <tr>
+      <th>72</th>
+      <td>73</td>
+      <td>Free Code Camp</td>
+      <td>http://www.freecodecamp.com</td>
+      <td>[code projects]</td>
+      <td>[javascript]</td>
+      <td>[beginner, intermediate]</td>
+    </tr>
+    <tr>
+      <th>73</th>
+      <td>74</td>
+      <td>Full Stack Python</td>
+      <td>https://www.fullstackpython.com</td>
+      <td>[tutorial]</td>
+      <td>[python]</td>
+      <td>[beginner, intermediate]</td>
+    </tr>
+    <tr>
+      <th>74</th>
+      <td>75</td>
+      <td>Getting Started in Information Security (Reddit wiki)</td>
+      <td>https://www.reddit.com/r/netsec/wiki/start</td>
+      <td>[reference, blog post]</td>
+      <td>[security]</td>
+      <td>[beginner, intermediate]</td>
+    </tr>
+    <tr>
+      <th>75</th>
+      <td>76</td>
+      <td>Git for Non-Developers</td>
+      <td>http://anitacheng.com/git-for-non-developers</td>
+      <td>[tutorial]</td>
+      <td>[git]</td>
+      <td>[beginner, intermediate]</td>
+    </tr>
+    <tr>
+      <th>76</th>
+      <td>77</td>
+      <td>GitHub - Git Cheat Sheet (pdf)</td>
+      <td>https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf</td>
+      <td>[cheatsheet]</td>
+      <td>[git]</td>
+      <td>[beginner, intermediate]</td>
+    </tr>
+    <tr>
+      <th>77</th>
+      <td>78</td>
+      <td>Git-it - intro Git/Github tutorial</td>
+      <td>https://github.com/jlord/git-it</td>
+      <td>[tutorial]</td>
+      <td>[git]</td>
+      <td>[beginner, intermediate]</td>
+    </tr>
+    <tr>
+      <th>78</th>
+      <td>79</td>
+      <td>GNU Smalltalk User's Guide</td>
+      <td>https://www.gnu.org/software/smalltalk/manual/html_node/Tutorial.html</td>
+      <td>[tutorial]</td>
+      <td>[smalltalk]</td>
+      <td>[beginner, intermediate]</td>
+    </tr>
+    <tr>
+      <th>79</th>
+      <td>80</td>
+      <td>Go Language Tour</td>
+      <td>http://tour.golang.org/welcome/1</td>
+      <td>[tutorial]</td>
+      <td>[Go]</td>
+      <td>[beginner, intermediate]</td>
+    </tr>
+    <tr>
+      <th>80</th>
+      <td>81</td>
+      <td>Google Java Style</td>
+      <td>https://google.github.io/styleguide/javaguide.html</td>
+      <td>[style guide]</td>
+      <td>[java]</td>
+      <td>[beginner, intermediate, advanced]</td>
+    </tr>
+    <tr>
+      <th>81</th>
+      <td>82</td>
+      <td>Google's C++ Class</td>
+      <td>https://developers.google.com/edu/c++</td>
+      <td>[tutorial]</td>
+      <td>[c++]</td>
+      <td>[beginner, intermediate]</td>
+    </tr>
+    <tr>
+      <th>82</th>
+      <td>83</td>
+      <td>Hacker Rank</td>
+      <td>https://www.hackerrank.com</td>
+      <td>[tutorial, practice problems]</td>
+      <td>[javascript]</td>
+      <td>[beginner, intermediate]</td>
+    </tr>
+    <tr>
+      <th>83</th>
+      <td>84</td>
+      <td>Hacking with Swift</td>
+      <td>https://www.hackingwithswift.com</td>
+      <td>[video, book, tutorial]</td>
+      <td>[swiftUI, mobile app development, swift, iOS]</td>
+      <td>[intermediate]</td>
+    </tr>
+    <tr>
+      <th>84</th>
+      <td>85</td>
+      <td>Head First Java</td>
+      <td>http://www.headfirstlabs.com/books/hfjava</td>
+      <td>[book]</td>
+      <td>[java]</td>
+      <td>[beginner, intermediate]</td>
+    </tr>
+    <tr>
+      <th>85</th>
+      <td>86</td>
+      <td>HTML &amp; CSS</td>
+      <td>http://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189</td>
+      <td>[book]</td>
+      <td>[html, css]</td>
+      <td>[intermediate, beginner]</td>
+    </tr>
+    <tr>
+      <th>86</th>
+      <td>87</td>
+      <td>InfoSec consulting companies - Ask Us Anything (2014 edition)</td>
+      <td>https://www.reddit.com/r/netsec/comments/202bsf/hey_guys_we_run_five_infosec_consulting_companies/?sort=old&amp;limit=500</td>
+      <td>[reference, blog post]</td>
+      <td>[security]</td>
+      <td>[beginner, intermediate]</td>
+    </tr>
+    <tr>
+      <th>87</th>
+      <td>88</td>
+      <td>InfoSec consulting companies - Ask Us Anything (2015 edition)</td>
+      <td>https://www.reddit.com/r/netsec/comments/3k9ul8/we_run_five_infosec_consulting_companies_ask_us/?sort=qa&amp;limit=500</td>
+      <td>[reference, blog post]</td>
+      <td>[security]</td>
+      <td>[beginner, intermediate]</td>
+    </tr>
+    <tr>
+      <th>88</th>
+      <td>89</td>
+      <td>Install Rails</td>
+      <td>http://guides.railsgirls.com/install</td>
+      <td>[tutorial]</td>
+      <td>[ruby]</td>
+      <td>[beginner, intermediate]</td>
+    </tr>
+    <tr>
+      <th>89</th>
+      <td>90</td>
+      <td>iOS Programming: The Big Nerd Ranch Guide (4th Edition):</td>
+      <td>http://www.amazon.com/iOS-Programming-Ranch-Edition-Guides/dp/0321942051</td>
+      <td>[book]</td>
+      <td>[iOS]</td>
+      <td>[beginner, intermediate]</td>
+    </tr>
+    <tr>
+      <th>90</th>
+      <td>91</td>
+      <td>JavaScript Algorithms and Data Structures</td>
+      <td>https://github.com/trekhleb/javascript-algorithms#readme</td>
+      <td>[reference, tutorial]</td>
+      <td>[css]</td>
+      <td>[intermediate]</td>
+    </tr>
+    <tr>
+      <th>91</th>
+      <td>92</td>
+      <td>Javascript and HTML5 Now - short overview of modern JS.</td>
+      <td>http://www.oreilly.com/programming/free/javascript-html5-now.csp</td>
+      <td>[book]</td>
+      <td>[javascript]</td>
+      <td>[beginner, intermediate]</td>
+    </tr>
+    <tr>
+      <th>92</th>
+      <td>93</td>
+      <td>JavaScript &amp; JQuery</td>
+      <td>http://www.amazon.com/JavaScript-JQuery-Interactive-Front-End-Development/dp/1118531647</td>
+      <td>[book]</td>
+      <td>[javascript]</td>
+      <td>[intermediate, beginner]</td>
+    </tr>
+    <tr>
+      <th>93</th>
+      <td>94</td>
+      <td>Javascript The Good Parts</td>
+      <td>http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742</td>
+      <td>[book]</td>
+      <td>[javascript]</td>
+      <td>[advanced, intermediate]</td>
+    </tr>
+    <tr>
+      <th>94</th>
+      <td>95</td>
+      <td>Khan Academy</td>
+      <td>https://www.khanacademy.org/computing/computer-programming/programming</td>
+      <td>[tutorial, reference]</td>
+      <td>[javascript]</td>
+      <td>[beginner, intermediate]</td>
+    </tr>
+    <tr>
+      <th>95</th>
+      <td>96</td>
+      <td>Khan Academy's Intro to SQL</td>
+      <td>https://www.khanacademy.org/computing/computer-programming/sql</td>
+      <td>[tutorial]</td>
+      <td>[sql]</td>
+      <td>[beginner, intermediate]</td>
+    </tr>
+    <tr>
+      <th>96</th>
+      <td>97</td>
+      <td>Learn C++</td>
+      <td>http://www.learncpp.com</td>
+      <td>[tutorial]</td>
+      <td>[c++]</td>
+      <td>[beginner, intermediate]</td>
+    </tr>
+    <tr>
+      <th>97</th>
+      <td>98</td>
+      <td>Learn C The Hard Way</td>
+      <td>http://c.learncodethehardway.org</td>
+      <td>[book]</td>
+      <td>[c]</td>
+      <td>[beginner, intermediate]</td>
+    </tr>
+    <tr>
+      <th>98</th>
+      <td>99</td>
+      <td>Learn Git Branching</td>
+      <td>http://pcottle.github.io/learnGitBranching</td>
+      <td>[tutorial]</td>
+      <td>[git, git branching]</td>
+      <td>[advanced, intermediate, beginner]</td>
+    </tr>
+    <tr>
+      <th>99</th>
+      <td>100</td>
+      <td>Learn Go in Y minutes</td>
+      <td>https://learnxinyminutes.com/docs/go</td>
+      <td>[tutorial]</td>
+      <td>[Go]</td>
+      <td>[beginner]</td>
+    </tr>
+    <tr>
+      <th>100</th>
+      <td>101</td>
+      <td>Learning HTML: Guides and Tutorials</td>
+      <td>https://developer.mozilla.org/en-US/docs/Learn/HTML</td>
+      <td>[guidelines, reference]</td>
+      <td>[html]</td>
+      <td>[intermediate]</td>
+    </tr>
+    <tr>
+      <th>101</th>
+      <td>102</td>
+      <td>Learning to Program in Go Video Series</td>
+      <td>https://www.youtube.com/playlist?list=PLei96ZX_m9sVSEXWwZi8uwd2vqCpEm4m6</td>
+      <td>[video, tutorial]</td>
+      <td>[Go]</td>
+      <td>[beginner, intermediate]</td>
+    </tr>
+    <tr>
+      <th>102</th>
+      <td>103</td>
+      <td>Learn JavaScript Unit Testing with Mocha, Chai and Simon</td>
+      <td>https://www.udemy.com/learn-javascript-unit-testing-with-mocha-chai-and-sinon</td>
+      <td>[interactive course, tutorial]</td>
+      <td>[general programming, javascript]</td>
+      <td>[advanced]</td>
+    </tr>
+    <tr>
+      <th>103</th>
+      <td>104</td>
+      <td>Learn Python with Games</td>
+      <td>http://www.checkio.org</td>
+      <td>[game]</td>
+      <td>[python]</td>
+      <td>[beginner, intermediate]</td>
+    </tr>
+    <tr>
+      <th>104</th>
+      <td>105</td>
+      <td>Learn Ruby with the EdgeCase Ruby Koans</td>
+      <td>http://rubykoans.com</td>
+      <td>[tutorial, book]</td>
+      <td>[ruby]</td>
+      <td>[beginner, intermediate]</td>
+    </tr>
+    <tr>
+      <th>105</th>
+      <td>106</td>
+      <td>Learn to code the hard way</td>
+      <td>http://cli.learncodethehardway.org</td>
+      <td>[book]</td>
+      <td>[cli]</td>
+      <td>[beginner, intermediate]</td>
+    </tr>
+    <tr>
+      <th>106</th>
+      <td>107</td>
+      <td>Learn to Program, by Chris Pine</td>
+      <td>http://it-ebooks.info/book/36</td>
+      <td>[book]</td>
+      <td>[ruby, learn to code]</td>
+      <td>[beginner]</td>
+    </tr>
+    <tr>
+      <th>107</th>
+      <td>108</td>
+      <td>Learn To Style HTML With CSS Tags</td>
+      <td>https://developer.mozilla.org/en-US/docs/Learn/CSS</td>
+      <td>[guidelines, reference, tutorial]</td>
+      <td>[css]</td>
+      <td>[beginner]</td>
+    </tr>
+    <tr>
+      <th>108</th>
+      <td>109</td>
+      <td>Linux Fundamentals, Part 1</td>
+      <td>http://www.funtoo.org/Linux_Fundamentals,_Part_1</td>
+      <td>[tutorial]</td>
+      <td>[misc, linux]</td>
+      <td>[beginner, intermediate, advanced]</td>
+    </tr>
+    <tr>
+      <th>109</th>
+      <td>110</td>
+      <td>Madona Syombua | YouTube</td>
+      <td>https://www.youtube.com/channel/UCaP1Jt-D1hiZyb6bY7NSqKQ/about</td>
+      <td>[video]</td>
+      <td>[mobile app development Kotlin machine learning java android]</td>
+      <td>[intermediate]</td>
+    </tr>
+    <tr>
+      <th>110</th>
+      <td>111</td>
+      <td>Matasano Crypto Challenges</td>
+      <td>http://cryptopals.com</td>
+      <td>[hacking challenges, demo apps]</td>
+      <td>[security]</td>
+      <td>[beginner, intermediate, advanced]</td>
+    </tr>
+    <tr>
+      <th>111</th>
+      <td>112</td>
+      <td>MIT 6.087 Practical Programming in C (taught January IAP 2010)</td>
+      <td>http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-087-practical-programming-in-c-january-iap-2010</td>
+      <td>[tutorial]</td>
+      <td>[c, c++]</td>
+      <td>[beginner, intermediate]</td>
+    </tr>
+    <tr>
+      <th>112</th>
+      <td>113</td>
+      <td>MIT 6.088 Intro to C Memory Mgmt and C++ Object-Oriented Prog. (taught January IAP 2010)</td>
+      <td>http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-088-introduction-to-c-memory-management-and-c-object-oriented-programming-january-iap-2010</td>
+      <td>[tutorial]</td>
+      <td>[c, c++]</td>
+      <td>[beginner, intermediate]</td>
+    </tr>
+    <tr>
+      <th>113</th>
+      <td>114</td>
+      <td>MIT 6.096 Introduction to C++ (taught January IAP 2011)</td>
+      <td>http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-096-introduction-to-c-january-iap-2011</td>
+      <td>[tutorial]</td>
+      <td>[c, c++]</td>
+      <td>[beginner, intermediate]</td>
+    </tr>
+    <tr>
+      <th>114</th>
+      <td>115</td>
+      <td>MIT 6.S096 Effective Programming in C and C++ (taught January IAP 2014)</td>
+      <td>http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s096-effective-programming-in-c-and-c-january-iap-2014</td>
+      <td>[tutorial]</td>
+      <td>[c, c++]</td>
+      <td>[beginner, intermediate]</td>
+    </tr>
+    <tr>
+      <th>115</th>
+      <td>116</td>
+      <td>MIT 6.S096 Introduction to C and C++ (taught January IAP 2013)</td>
+      <td>http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s096-introduction-to-c-and-c-january-iap-2013</td>
+      <td>[tutorial]</td>
+      <td>[c, c++]</td>
+      <td>[beginner, intermediate]</td>
+    </tr>
+    <tr>
+      <th>116</th>
+      <td>117</td>
+      <td>MIT OpenCourseWare</td>
+      <td>http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/video-lectures</td>
+      <td>[school, training]</td>
+      <td>[schools]</td>
+      <td>[beginner, intermediate, advanced]</td>
+    </tr>
+    <tr>
+      <th>117</th>
+      <td>118</td>
+      <td>Mozilla's Javascript Tutorial</td>
+      <td>https://developer.mozilla.org/en-US/docs/Web/JavaScript</td>
+      <td>[guide]</td>
+      <td>[javascript]</td>
+      <td>[beginner, intermediate]</td>
+    </tr>
+    <tr>
+      <th>118</th>
+      <td>119</td>
+      <td>Neural Networks for Machine Learning</td>
+      <td>https://www.coursera.org/course/neuralnets</td>
+      <td>[reference, tutorial]</td>
+      <td>[misc, machine learning]</td>
+      <td>[beginner, intermediate, advanced]</td>
+    </tr>
+    <tr>
+      <th>119</th>
+      <td>120</td>
+      <td>NewCoder.io</td>
+      <td>http://newcoder.io</td>
+      <td>[tutorial]</td>
+      <td>[python]</td>
+      <td>[beginner, intermediate]</td>
+    </tr>
+    <tr>
+      <th>120</th>
+      <td>121</td>
+      <td>Nodeschool</td>
+      <td>http://nodeschool.io</td>
+      <td>[tutorial, reference]</td>
+      <td>[javascript]</td>
+      <td>[beginner, intermediate]</td>
+    </tr>
+    <tr>
+      <th>121</th>
+      <td>122</td>
+      <td>Objective-C Programming: The Big Nerd Ranch Guide (2nd Edition):</td>
+      <td>http://www.amazon.com/Objective-C-Programming-Ranch-Guide-Guides/dp/032194206X/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1440459142&amp;sr=1-1&amp;keywords=objective+c&amp;pebp=1440459145149&amp;perid=0AX7W4FGDD464TBJAAYZ</td>
+      <td>[book]</td>
+      <td>[iOS, objective c]</td>
+      <td>[beginner, intermediate]</td>
+    </tr>
+    <tr>
+      <th>122</th>
+      <td>123</td>
+      <td>One month Rails $$</td>
+      <td>https://onemonth.com/courses/one-month-rails</td>
+      <td>[video, tutorial]</td>
+      <td>[ruby]</td>
+      <td>[beginner, intermediate]</td>
+    </tr>
+    <tr>
+      <th>123</th>
+      <td>124</td>
+      <td>Original Coding Style Conventions for Java from Sun</td>
+      <td>http://www.oracle.com/technetwork/java/codeconvtoc-136057.html</td>
+      <td>[style guide]</td>
+      <td>[java]</td>
+      <td>[beginner, intermediate, advanced]</td>
+    </tr>
+    <tr>
+      <th>124</th>
+      <td>125</td>
+      <td>OverTheWire WarGames</td>
+      <td>http://overthewire.org/wargames</td>
+      <td>[hacking challenges, demo apps]</td>
+      <td>[security]</td>
+      <td>[beginner, intermediate, advanced]</td>
+    </tr>
+    <tr>
+      <th>125</th>
+      <td>126</td>
+      <td>OWASP Security Shepard</td>
+      <td>https://www.owasp.org/index.php/OWASP_Security_Shepherd</td>
+      <td>[hacking challenges, demo apps]</td>
+      <td>[security]</td>
+      <td>[beginner, intermediate, advanced]</td>
+    </tr>
+    <tr>
+      <th>126</th>
+      <td>127</td>
+      <td>picoCTF -- Carnegie Mellon University's CTF training app</td>
+      <td>https://picoctf.com</td>
+      <td>[game]</td>
+      <td>[security, ctf]</td>
+      <td>[beginner, intermediate]</td>
+    </tr>
+    <tr>
+      <th>127</th>
+      <td>128</td>
+      <td>Pluralsight Classes for Go</td>
+      <td>https://www.pluralsight.com/search.html?q=golang&amp;categories=all</td>
+      <td>[video, tutorial]</td>
+      <td>[Go]</td>
+      <td>[beginner, intermediate]</td>
+    </tr>
+    <tr>
+      <th>128</th>
+      <td>129</td>
+      <td>Pragmatic studio Rails course $$</td>
+      <td>https://pragmaticstudio.com/rails</td>
+      <td>[video, tutorial]</td>
+      <td>[ruby]</td>
+      <td>[beginner, intermediate]</td>
+    </tr>
+    <tr>
+      <th>129</th>
+      <td>130</td>
+      <td>Pro Git</td>
+      <td>http://git-scm.com/book/en/v2</td>
+      <td>[book]</td>
+      <td>[git]</td>
+      <td>[beginner, intermediate]</td>
+    </tr>
+    <tr>
+      <th>130</th>
+      <td>131</td>
+      <td>Programr | Online IT Lab</td>
+      <td>http://www.programmr.com</td>
+      <td>[lab]</td>
+      <td>[python, android, iOS, angularjs, ajax, c++, c#, flash, html, css, java, jquery, js, j2ee, php, ruby, sql]</td>
+      <td>[beginner, intermediate, advanced]</td>
+    </tr>
+    <tr>
+      <th>131</th>
+      <td>132</td>
+      <td>Project Euler</td>
+      <td>https://projecteuler.net</td>
+      <td>[tutorial]</td>
+      <td>[algorithms]</td>
+      <td>[beginner, intermediate]</td>
+    </tr>
+    <tr>
+      <th>132</th>
+      <td>133</td>
+      <td>Python Introduction - Google's Python Class</td>
+      <td>https://developers.google.com/edu/python/introduction?csw=1</td>
+      <td>[tutorial]</td>
+      <td>[python]</td>
+      <td>[beginner, intermediate]</td>
+    </tr>
+    <tr>
+      <th>133</th>
+      <td>134</td>
+      <td>Rails Girls Guides - Rails Girls</td>
+      <td>http://guides.railsgirls.com</td>
+      <td>[tutorial]</td>
+      <td>[ruby]</td>
+      <td>[beginner, intermediate]</td>
+    </tr>
+    <tr>
+      <th>134</th>
+      <td>135</td>
+      <td>Ray Wenderlich tutorials</td>
+      <td>http://www.raywenderlich.com</td>
+      <td>[tutorial, video]</td>
+      <td>[iOS]</td>
+      <td>[beginner, intermediate]</td>
+    </tr>
+    <tr>
+      <th>135</th>
+      <td>136</td>
+      <td>React js Tutorial -How Redux Works</td>
+      <td>https://www.youtube.com/watch?v=1w-oQ-i1XB8&amp;list=PLoYCgNOIyGADILc3iUJzygCqC8Tt3bRXt</td>
+      <td>[video, tutorial]</td>
+      <td>[general programming, learn to code]</td>
+      <td>[advanced]</td>
+    </tr>
+    <tr>
+      <th>136</th>
+      <td>137</td>
+      <td>Real Python</td>
+      <td>https://realpython.com</td>
+      <td>[tutorial]</td>
+      <td>[python]</td>
+      <td>[beginner, intermediate]</td>
+    </tr>
+    <tr>
+      <th>137</th>
+      <td>138</td>
+      <td>Ruby Best Practices - Book</td>
+      <td>https://practicingruby.com</td>
+      <td>[book]</td>
+      <td>[ruby]</td>
+      <td>[beginner, intermediate]</td>
+    </tr>
+    <tr>
+      <th>138</th>
+      <td>139</td>
+      <td>$ Ruby cheat browse</td>
+      <td>http://cheat.errtheblog.com</td>
+      <td>[reference]</td>
+      <td>[ruby]</td>
+      <td>[beginner, intermediate, advanced]</td>
+    </tr>
+    <tr>
+      <th>139</th>
+      <td>140</td>
+      <td>Ruby in 100 minutes - Jumpstart Lab Curriculum</td>
+      <td>http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html</td>
+      <td>[tutorial]</td>
+      <td>[ruby]</td>
+      <td>[beginner, intermediate]</td>
+    </tr>
+    <tr>
+      <th>140</th>
+      <td>141</td>
+      <td>RubyMonk</td>
+      <td>https://rubymonk.com</td>
+      <td>[interactive course, tutorial]</td>
+      <td>[ruby]</td>
+      <td>[beginner, intermediate]</td>
+    </tr>
+    <tr>
+      <th>141</th>
+      <td>142</td>
+      <td>Ruby.on-page.net</td>
+      <td>http://ruby.on-page.net</td>
+      <td>[tutorial]</td>
+      <td>[ruby]</td>
+      <td>[beginner, intermediate]</td>
+    </tr>
+    <tr>
+      <th>142</th>
+      <td>143</td>
+      <td>Ruby on Rails Guides</td>
+      <td>http://edgeguides.rubyonrails.org</td>
+      <td>[guide]</td>
+      <td>[ruby]</td>
+      <td>[beginner, intermediate]</td>
+    </tr>
+    <tr>
+      <th>143</th>
+      <td>144</td>
+      <td>Ruby on Rails Screencasts</td>
+      <td>http://railscasts.com</td>
+      <td>[video]</td>
+      <td>[ruby]</td>
+      <td>[beginner, intermediate]</td>
+    </tr>
+    <tr>
+      <th>144</th>
+      <td>145</td>
+      <td>Ruby on Rails Tutorial</td>
+      <td>http://ruby.railstutorial.org</td>
+      <td>[book]</td>
+      <td>[ruby]</td>
+      <td>[beginner, intermediate]</td>
+    </tr>
+    <tr>
+      <th>145</th>
+      <td>146</td>
+      <td>Ruby Quiz</td>
+      <td>http://rubyquiz.com</td>
+      <td>[quiz]</td>
+      <td>[ruby]</td>
+      <td>[beginner, intermediate]</td>
+    </tr>
+    <tr>
+      <th>146</th>
+      <td>147</td>
+      <td>SASS for Web Designers</td>
+      <td>http://www.abookapart.com/products/sass-for-web-designers</td>
+      <td>[book]</td>
+      <td>[css, sass]</td>
+      <td>[intermediate, beginner]</td>
+    </tr>
+    <tr>
+      <th>147</th>
+      <td>148</td>
+      <td>Secure Coding Guidelines for Java SE</td>
+      <td>http://www.oracle.com/technetwork/java/seccodeguide-139067.html</td>
+      <td>[guidelines]</td>
+      <td>[java]</td>
+      <td>[beginner, intermediate, advanced]</td>
+    </tr>
+    <tr>
+      <th>148</th>
+      <td>149</td>
+      <td>Smalltalk-72 Manual</td>
+      <td>http://bitsavers.informatik.uni-stuttgart.de/pdf/xerox/parc/techReports/Smalltalk-72_Instruction_Manual_Mar76.pdf</td>
+      <td>[book]</td>
+      <td>[smalltalk]</td>
+      <td>[beginner, intermediate]</td>
+    </tr>
+    <tr>
+      <th>149</th>
+      <td>150</td>
+      <td>Smalltalk: An Introduction to Application Development Using VisualWorks</td>
+      <td>https://books.google.co.in/books?id=zalQAAAAMAAJ&amp;q=smalltalk&amp;dq=smalltalk&amp;hl=en&amp;sa=X&amp;ved=0CCgQ6AEwAmoVChMIw63Vo6CpyAIV0HGOCh3S2Alf</td>
+      <td>[book]</td>
+      <td>[smalltalk]</td>
+      <td>[beginner, intermediate]</td>
+    </tr>
+    <tr>
+      <th>150</th>
+      <td>151</td>
+      <td>Smalltalk Cheatsheet</td>
+      <td>http://www.angelfire.com/tx4/cus/notes/smalltalk.html</td>
+      <td>[cheatsheet, reference]</td>
+      <td>[smalltalk]</td>
+      <td>[beginner, intermediate]</td>
+    </tr>
+    <tr>
+      <th>151</th>
+      <td>152</td>
+      <td>Smalltalk, Objects, and Design</td>
+      <td>https://books.google.co.in/books?id=W8_Une9cbbgC&amp;printsec=frontcover&amp;dq=smalltalk&amp;hl=en&amp;sa=X&amp;ved=0CCIQ6AEwAWoVChMIw63Vo6CpyAIV0HGOCh3S2Alf#v=onepage&amp;q=smalltalk&amp;f=false</td>
+      <td>[book]</td>
+      <td>[smalltalk]</td>
+      <td>[beginner, intermediate]</td>
+    </tr>
+    <tr>
+      <th>152</th>
+      <td>153</td>
+      <td>Square's Intro to D3.JS</td>
+      <td>http://square.github.io/intro-to-d3</td>
+      <td>[tutorial]</td>
+      <td>[javascript]</td>
+      <td>[beginner, intermediate]</td>
+    </tr>
+    <tr>
+      <th>153</th>
+      <td>154</td>
+      <td>Stack Overflow</td>
+      <td>http://stackoverflow.com</td>
+      <td>[help forum]</td>
+      <td>[misc]</td>
+      <td>[beginner, intermediate, advanced]</td>
+    </tr>
+    <tr>
+      <th>154</th>
+      <td>155</td>
+      <td>Stanford School of Engineering</td>
+      <td>https://see.stanford.edu</td>
+      <td>[school, training]</td>
+      <td>[schools]</td>
+      <td>[beginner, intermediate, advanced]</td>
+    </tr>
+    <tr>
+      <th>155</th>
+      <td>156</td>
+      <td>Swift by Sundell</td>
+      <td>https://www.swiftbysundell.com</td>
+      <td>[tips, article, podcast, video, tutorial]</td>
+      <td>[mobile app development, swiftUI, swift, iOS]</td>
+      <td>[intermediate]</td>
+    </tr>
+    <tr>
+      <th>156</th>
+      <td>157</td>
+      <td>Swift for Good</td>
+      <td>https://www.swiftforgood.com</td>
+      <td>[book]</td>
+      <td>[iOS App Development, swiftUI, swift]</td>
+      <td>[beginner]</td>
+    </tr>
+    <tr>
+      <th>157</th>
+      <td>158</td>
+      <td>Teaching Kids Programming Designed</td>
+      <td>http://teachingkidsprogramming.org</td>
+      <td>[tutorial, kids]</td>
+      <td>[java]</td>
+      <td>[beginner]</td>
+    </tr>
+    <tr>
+      <th>158</th>
+      <td>159</td>
+      <td>The Magic of CSS</td>
+      <td>http://adamschwartz.co/magic-of-css</td>
+      <td>[reference, tutorial]</td>
+      <td>[css]</td>
+      <td>[intermediate]</td>
+    </tr>
+    <tr>
+      <th>159</th>
+      <td>160</td>
+      <td>The Missing Manual for JavaScript &amp; JQuery</td>
+      <td>http://www.amazon.com/JavaScript-jQuery-The-Missing-Manual/dp/1449399029</td>
+      <td>[book]</td>
+      <td>[javascript]</td>
+      <td>[intermediate, beginner]</td>
+    </tr>
+    <tr>
+      <th>160</th>
+      <td>161</td>
+      <td>The Well-Grounded Rubyist</td>
+      <td>http://www.amazon.com/Well-Grounded-Rubyist-David-Black/dp/1933988657</td>
+      <td>[book]</td>
+      <td>[ruby]</td>
+      <td>[beginner, intermediate]</td>
+    </tr>
+    <tr>
+      <th>161</th>
+      <td>162</td>
+      <td>Treehouse</td>
+      <td>https://teamtreehouse.com</td>
+      <td>[lab, interactive course, video, tutorial]</td>
+      <td>[design, php, iOS, android, java, c#, game development, databases, wordpress, html, css, javascript, ruby]</td>
+      <td>[intermediate, beginner]</td>
+    </tr>
+    <tr>
+      <th>162</th>
+      <td>163</td>
+      <td>Try Git</td>
+      <td>https://try.github.io</td>
+      <td>[tutorial]</td>
+      <td>[git]</td>
+      <td>[beginner]</td>
+    </tr>
+    <tr>
+      <th>163</th>
+      <td>164</td>
+      <td>Tryruby.org</td>
+      <td>http://tryruby.org/levels/1/challenges/0</td>
+      <td>[interactive course]</td>
+      <td>[ruby]</td>
+      <td>[beginner, intermediate]</td>
+    </tr>
+    <tr>
+      <th>164</th>
+      <td>165</td>
+      <td>Try SQL - Code School</td>
+      <td>https://www.codeschool.com/courses/try-sql</td>
+      <td>[tutorial]</td>
+      <td>[sql]</td>
+      <td>[beginner, intermediate]</td>
+    </tr>
+    <tr>
+      <th>165</th>
+      <td>166</td>
+      <td>Tutorials Point</td>
+      <td>http://www.tutorialspoint.com/javascript</td>
+      <td>[tutorial]</td>
+      <td>[javascript]</td>
+      <td>[beginner, intermediate]</td>
+    </tr>
+    <tr>
+      <th>166</th>
+      <td>167</td>
+      <td>Udemy</td>
+      <td>https://www.udemy.com</td>
+      <td>[podcast, video, tutorial]</td>
+      <td>[nodejs, rails, python, php, iOS, android, java, c#, html, css, javascript, ruby]</td>
+      <td>[intermediate, beginner]</td>
+    </tr>
+    <tr>
+      <th>167</th>
+      <td>168</td>
+      <td>Udemy: Learn the Foundations of HTML</td>
+      <td>https://blog.udemy.com/learn-html-learn-the-foundations-of-html</td>
+      <td>[tutorial, reference]</td>
+      <td>[html, css]</td>
+      <td>[beginner]</td>
+    </tr>
+    <tr>
+      <th>168</th>
+      <td>169</td>
+      <td>Udemy: Python Basics - Bootcamp</td>
+      <td>https://www.udemy.com/course/python-basics-bootcamp</td>
+      <td>[training practice guide tutorial]</td>
+      <td>[python]</td>
+      <td>[beginner]</td>
+    </tr>
+    <tr>
+      <th>169</th>
+      <td>170</td>
+      <td>VIM Adventures</td>
+      <td>http://vim-adventures.com</td>
+      <td>[game]</td>
+      <td>[misc, vim]</td>
+      <td>[beginner, intermediate, advanced]</td>
+    </tr>
+    <tr>
+      <th>170</th>
+      <td>171</td>
+      <td>Visualgo - Animated visualizations for algorithms</td>
+      <td>http://visualgo.net</td>
+      <td>[tutorial]</td>
+      <td>[algorithms]</td>
+      <td>[beginner, intermediate]</td>
+    </tr>
+    <tr>
+      <th>171</th>
+      <td>172</td>
+      <td>w3schools.com</td>
+      <td>http://www.w3schools.com</td>
+      <td>[reference, tutorial]</td>
+      <td>[html, css, javascript]</td>
+      <td>[beginner]</td>
+    </tr>
+    <tr>
+      <th>172</th>
+      <td>173</td>
+      <td>Write SwiftUI Entirely on an iPad Using Swift Playgrounds</td>
+      <td>https://medium.com/better-programming/write-swiftui-entirely-on-an-ipad-using-swift-playgrounds-f48364e50c9a</td>
+      <td>[article, tutorial]</td>
+      <td>[swift playgrounds, ipad, iOS App Development, swiftUI, swift, iOS]</td>
+      <td>[beginner]</td>
+    </tr>
+  </tbody>
+</table>
