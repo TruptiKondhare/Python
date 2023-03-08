@@ -1,0 +1,2 @@
+"there are 4 types pillor in advance python
+    class,object,oops"
